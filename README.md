@@ -1,12 +1,12 @@
 
 
+<table>
+<tr>
+<td valign="middle" width="65%">
+
 # I am Jagjeet Singh Dhillon, aka JD
 
 ### Software Engineer — Python · Full-Stack · AI Systems · Automation
-
-</div>
-
-<br>
 
 ```bash
 > whoami
@@ -15,6 +15,15 @@ Jagjeet Singh Dhillon — Software Engineer (Python / Full-Stack / AI Systems)
 > status
 B.Tech CS grad, 2026 · 4 internships · shipped production systems, not just prototypes
 ```
+
+</td>
+<td width="35%">
+
+<img width="100%" alt="banner gif" src="https://github.com/user-attachments/assets/83683a71-f5c7-4f8b-a7ce-73657cf902da" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
