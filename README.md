@@ -108,7 +108,15 @@ Ranks and filters resumes against job descriptions, replacing hours of manual sc
 - AWS Certified Data Engineer – Associate
 - Oracle Cloud OCI Associate
 - Complete SQL Bootcamp
+
+
+</div>
 - Data Analyst Professional Certificate
 - AI Agents Certification – IIT Jammu
 
+  ---
+
+<div align="center">
+
+[THEJD04 - LeetCode Profile](https://leetcode.com/u/THEJD04/)
 
