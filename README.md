@@ -2,18 +2,22 @@
 
 # Hi 👋, I'm Jagjeet Singh Dhillon
 
-### Python developer building AI-powered tools, automation bots, and data dashboards
+### Software Engineer — Python · Full-Stack · AI Systems · Automation
 
-<img src="https://komarev.com/ghpvc/?username=TheJd04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/TheJd04?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+<img src="banner.gif" width="260" alt="banner" />
 
 </div>
 
-- 🔭 Currently building **AI_Powered_job_alert** and **Personalized-Career-Coach**
-- 📊 Also working on data projects like **gdp-dashboard** and **Student-performancee**
-- 🤖 Exploring browser automation with **Browser-Search-Bot**
-- 📫 Reach me at: **your-email@example.com** *(swap in your real email)*
-- 🌐 Portfolio: **your-portfolio-link.com** *(add yours if you have one)*
+<br>
+
+CS Engineering graduate (B.Tech, 2026) who's shipped a live desktop app, completed 4 internships, and built production Python/Flask backends, full-stack platforms, and AI automation tools — comfortable taking a project from idea all the way to deployment.
+
+- 🌐 Portfolio / live CV → [resume-cv-theta.vercel.app](https://resume-cv-theta.vercel.app/)
+- 🚀 Shipped **DualDesk**, a live Windows desktop app → [dualdesk-site.vercel.app](https://dualdesk-site.vercel.app)
+- 🧠 Building AI systems with LangChain, CrewAI, and OpenAI's GPT-4o
+- 💼 4 internships spanning data engineering, backend development, and applied GenAI
+- 🎓 B.Tech Computer Science Engineering, Amity University, Mohali (2022–2026)
+- 📫 dhillonjd.04@gmail.com
 
 <br>
 
@@ -21,34 +25,73 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://resume-cv-theta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jagjeet-singh-dhillon-022b822b7)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhillonjd.04@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/jagjeetsinghdhillon)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/THEJD04)
 
 </div>
 
 <br>
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,flask,django,sklearn,selenium,mysql,sqlite,git,github,docker,linux,vscode,html,css,js" />
+<img src="https://skillicons.dev/icons?i=py,js,html,css,c,cpp,flask,react,nodejs,mysql,postgres,git,github,docker,aws,vscode,electron" />
 
 </div>
+
+- **Languages:** Python, JavaScript (ES6+), SQL, C/C++
+- **Frameworks & Libraries:** Flask, React.js, Node.js, REST APIs, JWT Auth, Pandas, Scikit-learn, LangChain, Selenium
+- **Databases:** MySQL, PostgreSQL
+- **Cloud & DevOps:** AWS, Docker, CI/CD, Oracle Cloud OCI
+- **Tools:** Git, GitHub, Jupyter, VS Code, n8n, Electron.js
 
 <br>
 
 ## 📌 Featured Projects
 
-| Project | About |
-|---|---|
-| [AI_Powered_job_alert](https://github.com/TheJd04/AI_Powered_job_alert) | Automated job-alert system powered by AI |
-| [Personalized-Career-Coach](https://github.com/TheJd04/Personalized-Career-Coach) | AI-driven career guidance tool |
-| [gdp-dashboard](https://github.com/TheJd04/gdp-dashboard) | Interactive dashboard visualizing GDP data |
-| [Student-performancee](https://github.com/TheJd04/Student-performancee) | Analysis of student performance data |
-| [Browser-Search-Bot-](https://github.com/TheJd04/Browser-Search-Bot-) | Automated browser search bot |
-| [Leave-Approval-Project](https://github.com/TheJd04/Leave-Approval-Project) | Leave approval management system |
+**[DualDesk](https://github.com/TheJd04/DualDesk)** — Dual WhatsApp Desktop App · *Electron.js, JavaScript, HTML, CSS* · [Live](https://dualdesk-site.vercel.app)<br>
+Windows desktop app that runs two WhatsApp/Instagram/Snapchat accounts side-by-side in sandboxed panes, with persistent sessions and native OS notifications.
+
+**BioPulse Elite** — AI Industrial Dashboard · *Python, Flask, React.js, Scikit-learn, GPT-4o, MySQL, Docker*<br>
+Full-stack platform with 3 live dashboards and 5 ML models (98.39% accuracy) predicting equipment status every 5 seconds, plus a GPT-4o chat interface for fleet route optimization.
+
+**[AI-Powered Job Alert System](https://github.com/TheJd04/AI_Powered_job_alert)** · *Python, n8n, web scraping*<br>
+Scrapes live job listings and sends automated WhatsApp alerts via n8n, turning hours of manual searching into a zero-touch workflow.
+
+**[Personalized Career Coach](https://github.com/TheJd04/Personalized-Career-Coach)** — AI Agent · *Python, CrewAI, LangChain, OpenAI API, Streamlit*<br>
+Multi-agent system that analyzes a resume, maps skills to market demand, and generates a personalized career roadmap.
+
+**AI Fault Detection & Predictive Maintenance** · *Python, Scikit-learn, Pandas, Flask, MySQL* · [Kaggle](https://kaggle.com/jagjeetsinghdhillon)<br>
+End-to-end ML pipeline that flags equipment faults from sensor data before failure, enabling proactive maintenance.
+
+**Resume Screening App** — NLP Pipeline · *Python, Scikit-learn, NLP, Streamlit*<br>
+Ranks and filters resumes against job descriptions, replacing hours of manual screening with instant scored rankings.
+
+<br>
+
+## 💼 Experience
+
+| Role | Company | Duration |
+|---|---|---|
+| Data & IT Engineering Intern | Pancarbo Greenfuels Pvt. Ltd. · Mohali | Mar – Jun 2026 |
+| Software Developer Intern | Cognifyz Technologies · Remote | Jan – Feb 2026 |
+| AI & GenAI Intern | IIT Jammu – Career Development Services | Jun – Aug 2025 |
+| Software Engineering Intern | OctaNet Services Pvt. Ltd. · Remote | Jul – Aug 2024 |
+
+<br>
+
+## 🎓 Education & Certifications
+
+- **B.Tech, Computer Science Engineering** — Amity University, Mohali (2022–2026), CGPA 7.0
+- AWS Certified Data Engineer – Associate
+- Oracle Cloud OCI Associate
+- Complete SQL Bootcamp
+- Data Analyst Professional Certificate
+- AI Agents Certification – IIT Jammu
 
 <br>
 
@@ -58,17 +101,5 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheJd04&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJd04&layout=compact&theme=dark&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=TheJd04&theme=dark&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💛 Support my work
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/your-username)
 
 </div>
